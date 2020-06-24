@@ -2,5 +2,5 @@ package customer;
 
 public enum Gender {
 
-	MALE,FEMALE,OTHERS;
+	MALE,FEMALE,OTHER;
 }

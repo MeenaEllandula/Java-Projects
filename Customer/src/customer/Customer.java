@@ -11,6 +11,8 @@ public class Customer {
 	private String email;
 	private LocalDate dob;
 	Gender gender;
+	
+	
 	public int getCustomerID() {
 		return customerID;
 	}
